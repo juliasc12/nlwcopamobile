@@ -2,6 +2,8 @@
 <img width="250" padding: 2rem src=https://uploaddeimagens.com.br/images/004/091/574/original/logo.png?1667599176><br>
 <br><p align="center">🚀 <b> Aplicativo para gerênciamento de bolões pros jogos da Copa de 2022 </b>🚀 <br> 
 <i font-size: 2px>desenvolvido durante a NLW - Rocketseat</i></p>
+
+![](https://skills.thijs.gg/icons?i=react,ts,nodejs,nextjs&theme=dark)
 </div>
 
 ## 
@@ -9,11 +11,21 @@
 <img src="https://uploaddeimagens.com.br/images/004/091/631/original/web.PNG?1667603645">
 
 <div align="center" margin="2"><h3>Layout da Aplicação MOBILE</h3>
-  <img  width="220" src="https://uploaddeimagens.com.br/images/004/091/713/full/WhatsApp_Image_2022-11-04_at_20.22.15.jpeg?1667608407">
-  <img  width="220" src="https://uploaddeimagens.com.br/images/004/091/714/full/WhatsApp_Image_2022-11-04_at_20.22.15_%281%29.jpeg?1667608428">
-  <img  width="220"  src="https://uploaddeimagens.com.br/images/004/091/715/full/WhatsApp_Image_2022-11-04_at_20.22.15_%282%29.jpeg?1667608450">
-  <img  width="220" src="https://uploaddeimagens.com.br/images/004/091/717/original/WhatsApp_Image_2022-11-04_at_20.22.16.jpeg?1667608483">
+  <img  width="200" src="https://uploaddeimagens.com.br/images/004/091/713/full/WhatsApp_Image_2022-11-04_at_20.22.15.jpeg?1667608407">
+  <img  width="200" src="https://uploaddeimagens.com.br/images/004/091/714/full/WhatsApp_Image_2022-11-04_at_20.22.15_%281%29.jpeg?1667608428">
+  <img  width="200"  src="https://uploaddeimagens.com.br/images/004/091/715/full/WhatsApp_Image_2022-11-04_at_20.22.15_%282%29.jpeg?1667608450">
+  <img  width="200" src="https://uploaddeimagens.com.br/images/004/091/717/original/WhatsApp_Image_2022-11-04_at_20.22.16.jpeg?1667608483">
 </div>
+<br><br>
+
+## Tecnologias Utilizadas no Desenvolvimento
+- <b>Backend</b>
+  - SQLite, Fastify, Prisma, Axios, OAuth2 e Dotenv
+- <b>Frontend</b>
+  - React, Typescript, Nextjs e Tailwind CSS
+- <b>Mobile</b>
+  - ReactNative, Expo, SVG Transformer, React Navigation
+
 <br><br>
 
 ## Instalação das dependências e execução. 
